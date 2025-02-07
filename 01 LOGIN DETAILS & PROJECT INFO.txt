@@ -7,11 +7,11 @@
 
 **Student Login Details**
 
-Email   : steeve@gmail.com 
+Email   : fiston@gmail.com 
 Password: password
 
 
 **Admin Login Details**
 
-Email    : sunnygkp10@gmail.com
+Email    : hirwabrian@gmail.com
 Password : 123456
